@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AshokBabu</h1>
-<h3 align="center">A focused passionate problem solver 22 years of technology (At GE, Toyota, Coke, Pepsi, AnZ, AirBus, AstraZeneca, etc)</h3>
+<h3 align="center">A focused passionate problem solver (At GE, Toyota, Coke, Pepsi, AnZ, AirBus, AstraZeneca, etc)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=analyticsworld1&label=Profile%20views&color=0e75b6&style=flat" alt="analyticsworld1" /> </p>
 
