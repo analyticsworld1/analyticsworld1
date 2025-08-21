@@ -5,14 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=analyticsworld1" alt="analyticsworld1" /></a> </p>
 
-- 🔭 A seasoned **AI ML Lead Solutions Architect** currently working on multi- AI-Agent Systems:
+- 🔭 A seasoned **Lead AI ML Data Solutions** currently working on multi- AI-Agent Systems:
     1) Healthcare applications for patient monitoring and personalized care.
     2) Autonomous vehicles communicate to optimize traffic flow.
     3) Smart power grids managing electricity distribution.
     4) Disaster rescue using autonomous robot agents.
     5) Intelligent control of machines and logistics in manufacturing systems.
 
-- 📝 I regularly write articles on [https://www.tiksys.ai/post/7-ai-powered-financial-chatbot-revolutionize-the-fintech-domain](https://www.tiksys.ai/post/7-ai-powered-financial-chatbot-revolutionize-the-fintech-domain)
+- 📝 I regularly write articles
 
 ### 🌟 **Portfolio Highlights**
 
